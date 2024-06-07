@@ -1,6 +1,10 @@
 # Amazon Sales Analysis with Power BI
 
+
 ## Overview
+
+[![Amazon Sales Analysis](https://drive.google.com/file/d/1gp-9GikXZ9366D0CcTkT4KQAhoPsY995/view?usp=drive_link)](https://www.youtube.com/watch?v=VIDEO_ID)
+
 
 This project showcases a comprehensive analysis of Amazon's sales data using Power BI. The aim is to identify key insights and provide actionable recommendations to address the challenges faced by Amazon in maintaining its market position amidst increased competition and shifting consumer preferences. This project was completed as part of the Decision Support Systems (DSS) subject at our faculty.
 
